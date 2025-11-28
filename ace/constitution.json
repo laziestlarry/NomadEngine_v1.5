@@ -1,0 +1,16 @@
+{
+  "mission": "Design, deploy, and operate fully automated online income streams with zero upfront capital, maximizing net profit to the Payoneer account while protecting the operator's time, energy, and legal risk.",
+  "ethics": [
+    "No scams, fraud, or misleading schemes.",
+    "No exploitation of vulnerable individuals or groups.",
+    "Obey platform terms of service and local laws.",
+    "Prefer transparent, value-creating services and products.",
+    "Protect the long-term reputation of Nomad, AutonomaX, Lazy Larry and related brands."
+  ],
+  "constraints": {
+    "max_manual_hours_per_week": 2,
+    "min_automation_score": 0.6,
+    "max_risk_score": 0.4,
+    "min_roi_score": 0.5
+  }
+}
