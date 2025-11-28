@@ -1,0 +1,14 @@
+# Core runtime
+fastapi
+uvicorn
+apscheduler
+sqlalchemy
+pydantic
+python-dotenv
+
+# CLI / diagnostics
+rich
+
+# Data helpers
+pyyaml
+yt-dlp
